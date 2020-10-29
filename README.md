@@ -1,3 +1,9 @@
+This is part of "The Modern React Bootcamp" course at https://www.udemy.com/course/modern-react-bootcamp/
+
+This project is online at https://www.bonniejmartin.com/react-dice/
+
+...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
